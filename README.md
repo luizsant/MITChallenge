@@ -1,5 +1,8 @@
 # :us: Adapted “MIT” Challenge
 
+### Start: 05 jan 2024
+### End: ???
+
 # About the Challenge
 
 This course is based on [Scott Young's "Ultralearning" challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/). Originally, the challenge involved completing MIT's 4-year Computer Science curriculum in just 12 months, using free online educational resources.
