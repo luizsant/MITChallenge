@@ -1,4 +1,4 @@
-# Adapted “MIT” Challenge
+# :us: Adapted “MIT” Challenge
 
 # About the Challenge
 
@@ -20,7 +20,7 @@ The vast majority of the courses listed here are free or low-cost, but not all o
 Unlike the original MIT curriculum, our adapted course is more extensive in terms of hours, as many of the selected courses are longer and more comprehensive. Additionally, they involve embedded micro-courses with more subjects in some cases, providing a broader and more detailed view of each topic.
 This challenge is even more significant for me, as my native language is Portuguese (Brazil), and I will be learning English while studying the subjects, adding an extra layer of difficulty.
 
-# Desafio “MIT” Adaptado
+# 🇧🇷: Desafio “MIT” Adaptado
 
 # Sobre o Desafio
 
