@@ -13,8 +13,6 @@ Another point is that, as it is more extensive, I have not set a minimum time fr
 
 The vast majority of the courses listed here are free or low-cost, but not all of them. Some have a more significant cost and may also require payment for certification.
 
----
-
 # Course Adaptation
 
 Unlike the original MIT curriculum, our adapted course is more extensive in terms of hours, as many of the selected courses are longer and more comprehensive. Additionally, they involve embedded micro-courses with more subjects in some cases, providing a broader and more detailed view of each topic.
